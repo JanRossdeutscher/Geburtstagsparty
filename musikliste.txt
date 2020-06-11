@@ -3,4 +3,5 @@ Trompeten
 Tuba
 Trommeln
 Schlagzeug
+Posaune
 Saxophone
